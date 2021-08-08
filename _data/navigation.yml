@@ -122,9 +122,7 @@ project-en:
   - title:      BTP
     children:
       - title:  Reviews
-        url:        /project_reviews/btp/structures/gogu.html
-      - title:  Reviews
-        url:        /project_reviews/btp/aerodynamics/prabhu.html
+        url:        /project_reviews/btp/structures/gogu.html      
 
   - title:      DDP
     children:
