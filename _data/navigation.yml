@@ -108,6 +108,8 @@ docs-en:
         url:        /course_reviews/minor/cse/course_list.html
       - title:  Electrical Engineering
         url:        /course_reviews/minor/elec/course_list.html
+      - title:  Electrical Engineering
+        url:        /course_reviews/minor/cse/course_list.html
 
 
 
@@ -217,9 +219,7 @@ btp-en:
       - title:  Prof. Dhwanil Shukla
         url:        /project_reviews/btp/aerodynamics/dhwanil.html
       - title:  Prof. Prabhu Ramachandran
-        url:        /project_reviews/btp/aerodynamics/prabhu.html    
-      - title:  Prof. Prabhu Ramachandran
-        url:        /project_reviews/btp/aerodynamics/prabhu1.html    
+        url:        /project_reviews/btp/aerodynamics/prabhu.html   
 
 
   - title:      Structures
