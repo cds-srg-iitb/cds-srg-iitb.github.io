@@ -3,7 +3,7 @@ layout: article
 title: About Us
 key: page-about
 ---
-## DAMP Coordinator: Amal S Sebastian
+## DAMP Coordinator: Vishnu Shankar
 ## Mentors:
 
 * Malhar Prajapati
