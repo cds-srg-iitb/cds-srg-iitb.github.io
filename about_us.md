@@ -3,8 +3,8 @@ layout: article
 title: About Us
 key: page-about
 ---
-## DAMP Coordinator: Amal S Sebastian
-## Mentors:
+## CDS-SRG Managers: Soham S. Phanse and Anjali Rawat
+<!--## Mentors:
 
 * Malhar Prajapati
 * Dhruv Jain
@@ -23,4 +23,4 @@ key: page-about
 * Miloni Atal
 * Rohit V Tembhare
 * Avinash Arun
-* Nakul Randad
+* Nakul Randad-->
