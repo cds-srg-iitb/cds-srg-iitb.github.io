@@ -21,13 +21,15 @@ article_header:
 This is the official webpage of the Control and Dynamical Systems Student Reading Group of IIT Bombay. 
 <!--This blog is made with the purpose of being the "go-to" place for anything and everything Aerospace Engineering related at IIT Bombay. At present this blog contains course reviews to help out students of IIT Bombay .-->
 
-## The Control and Dynamical Systems Student Reading Group, IIT Bombay
+## The Control & Dynamical Systems Student Reading Group, IIT Bombay
 
 __*What is CDS-SRG?*__
 
 <div style="text-align: justify">
   Over the years, we have witnessed an increase in the number of projects being pursued under various initiatives by ITC. These projects have been instrumental in sparking enthusiasm towards robotics in a lot of students. These projects are, however, in most cases, pursued without sufficient depth in theoretical and practical knowledge in areas like analysis of dynamical systems, the design of control and filtering algorithms to name a few, which eventually leads to the original objectives remaining unfulfilled. Through this reading group, we envision to bridge this gap, promote discussion on topics in controls, facilitate exposure to the associated mathematics and delve into implementation details involved in real-life applications. We also want this exposure to encourage more students to pursue research, theoretical or implementation-based, in these areas.
+  
 <!--The Department Academic Mentorship Program (DAMP) team, Aerospace Engineering, IITB consists of 19 exuberant and highly motivated students working towards providing the necessary help and guidance to all sophomores and under performing upperclassmen.-->
+  
 </div>
 
 <!--__*How can a DAMP mentor help you?*__
@@ -42,9 +44,11 @@ __*What is CDS-SRG?*__
 <!--__*Our Vision:*__
 > *Make Aerospace DAMP team a role model to the entire Institute for how effective academic mentorship is done.*-->
 
+
 __*Our Goals:*__
 * Create an active student community with interests in Controls and Dynamical Systems.
 * Facilitate discussions between the students and faculty/industry by arranging talk sessions, lecture series, workshops. 
+
 <!--* Reduce the number of students in ARP and/or with backlogs.
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.-->
@@ -52,15 +56,14 @@ __*Our Goals:*__
 ## Initiatives by the 2020-21 team:
 * Creating a full fledged webpage/blog for hosting the portfolio of CDS-SRG. 
 * Arranging talk sessions of faculty and field experts from the Industry. 
+
 <!--* Revamp the __Department Academic Volunteer Programme__ . This wing of the DAMP team focuses on conducting "Basics" and "Doubt Clearing" Academic Help Sessions for students.
 * To conduct a Aerospace Faculty Research Presentation and Luncheon to improve student-faculty relations
 * Continuing the highly-regarded novel approach to boosting Mathematical skills of under performing students through  **Math Help Sessions**.
-* To discuss the possible reconstruction of curriculum and introduction of new courses/electives-->
-
-<!--## How to be a part of the team?
+* To discuss the possible reconstruction of curriculum and introduction of new courses/electives
+## How to be a part of the team?
 * Team Members are students from 3rd year and above. They are selected through a dynamic process of interviews and peer reviews.
 * What we look for? - Students who are motivated in helping others and will be dedicated to do so.-->
-
 
 Feel free to reach out to us at [cds.srg.iitb@gmail.com](cds.srg.iitb@gmail.com).
 
