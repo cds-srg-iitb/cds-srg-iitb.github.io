@@ -6,7 +6,7 @@ aside:
 sidebar:
   nav: slp-en
 categories: talks prof_name
-permalink: /project_reviews/:categories
+permalink: /talk_sessions/:categories
 ---
 
 # Talk Title
