@@ -260,3 +260,10 @@ other-en:
     children:
       - title:  Prof. Krishnendhu Sinha
         url:        /project_reviews/other/propulsion/ksinha.html
+
+# Talk Sessions
+talk-en:
+- title:      Talk Sessions
+    children:
+      - title:  Dr. Nidhish Raj
+        url:        /talk_sessions/Other Faculty & Experts/Dr. Nidhish Raj.html
