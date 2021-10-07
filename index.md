@@ -23,7 +23,7 @@ This is the official webpage of the Control and Dynamical Systems Student Readin
 
 ## The Control & Dynamical Systems Student Reading Group, IIT Bombay
 
-__*What is CDS-SRG?*__
+### What is CDS-SRG?
 
 <div style="text-align: justify">
   Over the years, we have witnessed an increase in the number of projects being pursued under various initiatives by ITC. These projects have been instrumental in sparking enthusiasm towards robotics in a lot of students. These projects are, however, in most cases, pursued without sufficient depth in theoretical and practical knowledge in areas like analysis of dynamical systems, the design of control and filtering algorithms to name a few, which eventually leads to the original objectives remaining unfulfilled. Through this reading group, we envision to bridge this gap, promote discussion on topics in controls, facilitate exposure to the associated mathematics and delve into implementation details involved in real-life applications. We also want this exposure to encourage more students to pursue research, theoretical or implementation-based, in these areas.
@@ -45,7 +45,7 @@ __*What is CDS-SRG?*__
 > *Make Aerospace DAMP team a role model to the entire Institute for how effective academic mentorship is done.*-->
 
 
-__*Our Goals:*__
+### Our Goals
 * Create an active student community with interests in Controls and Dynamical Systems.
 * Facilitate discussions between the students and faculty/industry by arranging talk sessions, lecture series, workshops. 
 
