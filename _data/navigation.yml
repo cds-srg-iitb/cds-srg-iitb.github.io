@@ -1,5 +1,3 @@
-<!--Change the .html extension to the .yml extension
-
 header:
   - titles:
       en      : &EN       Course Reviews
@@ -261,4 +259,4 @@ other-en:
   - title:      Propulsion
     children:
       - title:  Prof. Krishnendhu Sinha
-        url:        /project_reviews/other/propulsion/ksinha.html-->
+        url:        /project_reviews/other/propulsion/ksinha.html
