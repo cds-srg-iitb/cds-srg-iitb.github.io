@@ -5,21 +5,21 @@ aside:
   toc: true
 sidebar:
   nav: slp-en
-categories: SLP controls prof_name
+categories: talks prof_name
 permalink: /project_reviews/:categories
 ---
 
-# Project Title
-### Author name
-**Year of Study**:
+# Talk Title
+### Speaker Name
+**Profession**:
 
-**Contact details**:
+<!--**Contact details**:-->
 
 ---
 
-**Project type**:
+**Summary of the Talk**:
 
-**Motivation to pursue project**:
+<!--**Motivation to pursue project**:
 
 **Summary of Project**:
 
@@ -33,6 +33,6 @@ permalink: /project_reviews/:categories
 | Involvement of the professor||
 | How strict were the deadlines	| |
 | Learning outcome | |
-| How likely are you to recommend working under this professor | |
+| How likely are you to recommend working under this professor | |-->
 
 
