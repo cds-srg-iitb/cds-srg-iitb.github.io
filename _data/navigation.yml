@@ -1,20 +1,21 @@
 header:
-  - titles:
-      en      : &EN       Course Reviews
-    url: /course_reviews.html
+  #- titles:
+  #    en      : &EN       Course Reviews
+  #  url: /course_reviews.html
 
-  - titles:
-      en      : &EN       Project Reviews
-    url: /project_reviews.html
-
-  - titles:
-      en      : &EN       About Us
-    url: /about_us.html
+  #- titles:
+  #    en      : &EN       Project Reviews
+  #  url: /project_reviews.html
 
   - titles:
       en      : &EN       Talk Sessions
     url: /talk_sessions.html
+    
+  - titles:
+      en      : &EN       About Us
+    url: /about_us.html
 
+  
 # Talk Sessions Navigation
 docs-en:
   - title:      Other Faculty and Experts
