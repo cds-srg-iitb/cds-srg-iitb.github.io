@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Talks Sessions
+title: Talk Sessions
 sidebar:
   nav: talk-en
 permalink: /talk_sessions.html
