@@ -11,7 +11,16 @@ header:
       en      : &EN       About Us
     url: /about_us.html
 
+  - titles:
+      en      : &EN       Talk Sessions
+    url: /talk_sessions.html
 
+# Talk Sessions Navigation
+docs-en:
+  - title:      Other Faculty and Experts
+    children:
+      - title:  Dr. Nidhish Raj
+        url:        /talk_sessions/Other%20Faculty%20and%20Experts/Dr.%20Nidhish%20Raj.html
 
 
 # Course Reviews Navigation
@@ -260,10 +269,3 @@ other-en:
     children:
       - title:  Prof. Krishnendhu Sinha
         url:        /project_reviews/other/propulsion/ksinha.html
-
-# Talk Sessions
-talk-en:
-- title:      Talk Sessions
-    children:
-      - title:  Dr. Nidhish Raj
-        url:        /talk_sessions/Other Faculty & Experts/Dr. Nidhish Raj.html
