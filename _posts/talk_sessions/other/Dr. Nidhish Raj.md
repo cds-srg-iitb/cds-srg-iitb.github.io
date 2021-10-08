@@ -4,7 +4,7 @@ title: Dr. Nidhish Raj
 aside:
   toc: true
 sidebar:
-  nav: slp-en
+  nav: talk-en
 categories: talk_sessions prof_name
 permalink: /talk_sessions/:categories
 ---
